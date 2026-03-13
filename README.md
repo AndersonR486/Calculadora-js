@@ -15,5 +15,4 @@ Projeto de uma calculadora simples desenvolvido com HTML, CSS e JavaScript.
 - CSS
 - JavaScript
 
-## Autor
-Anderson Rodriguez
+
