@@ -44,6 +44,7 @@ label {
     font-size: 40px;
     padding: 10px;
     width: 80px;
+    curso: pointer;
 }
 
 #igual {
@@ -62,6 +63,4 @@ button:hover{
     background-color: #C4AEF4;
 }
 
-button{
-    curso: pointer;
-}
+
