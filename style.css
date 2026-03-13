@@ -61,3 +61,7 @@ label {
 button:hover{
     background-color: #C4AEF4;
 }
+
+button{
+    curso: pointer;
+}
