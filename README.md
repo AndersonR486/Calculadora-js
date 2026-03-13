@@ -1,7 +1,7 @@
 
 # Calculadora Portátil
 
-Projeto de uma calculadora simples desenvolvido com HTML, CSS e JavaScript.
+Projeto de uma calculadora simples desenvolvido na sala de aula com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 - Soma
