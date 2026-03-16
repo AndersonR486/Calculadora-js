@@ -21,12 +21,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
             }
 
-            else if (valor === "L") {
+            else if (valor === "LT") {
                 expressao = "";
                 display.innerText = "0";
             }
 
-            else if (valor === "LT") {
+            else if (valor === "L") {
                 expressao = expressao.slice(0, -1);
                 display.innerText = expressao || "0";
             }
